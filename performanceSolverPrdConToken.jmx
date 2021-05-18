@@ -346,7 +346,7 @@
             </HeaderManager>
             <hashTree/>
             <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="Configuración del CSV Data Set" enabled="true">
-              <stringProp name="filename">/Users/pabsolarg/jmeter/test/ForumLabsPrd/CabeceraDeItems.csv</stringProp>
+              <stringProp name="filename">/opt/jmeter/test/ForumLabs/CabeceraDeItems.csv</stringProp>
               <stringProp name="fileEncoding"></stringProp>
               <stringProp name="variableNames">dataCaso</stringProp>
               <boolProp name="ignoreFirstLine">false</boolProp>
